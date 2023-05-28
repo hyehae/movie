@@ -1,5 +1,7 @@
 ## nomad coder course [ReactJS로 영화 웹 서비스 만들기](https://nomadcoders.co/react-for-beginners)
 
+`npm run deploy` builds the app for production to the `build` folder and publish on github-page
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
