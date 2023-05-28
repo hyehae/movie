@@ -1,6 +1,6 @@
-nomad coder course [ReactJS로 영화 웹 서비스 만들기](https://nomadcoders.co/react-for-beginners)
+## nomad coder course [ReactJS로 영화 웹 서비스 만들기](https://nomadcoders.co/react-for-beginners)
 
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
